@@ -1,0 +1,26 @@
+CrystalMark Execute Start
+CrystalMark Initialize Start
+SysInfo.dll Init Start
+SysInfo.dll Init OK!!
+Get HDD Infomation Start
+Get HDD Infomation OK!
+CrystalMark Initialize OK!!
+WMI Initialize Start
+Disk
+Disk A
+Exception Disk
+BIOS
+BIOS 1
+Exception BIOS
+Computer System
+Exception Computer System
+Mother
+Exception Mother
+OS
+Exception OS
+IDE
+Exception IDE
+Video
+Exception Video
+WMI Initialize OK!
+CrystalMark Execute End

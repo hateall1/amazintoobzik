@@ -1,0 +1,252 @@
+
+Init. hiyoGL 2004 -- 2004030501
+Initialized Random
+Initialized glut-1
+Init. Model (pentium4.gld)
+[OK] Initialized Function Pointer 
+[OK]Initialized Model
+Load GLD File (pentium4.gld)
+[OK] Initialized GC2 Header
+[OK] GC2 Load Header > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Load GC2 Ver2
+[OK] Loaded GC2 > err = 0
+[OK] Free GC2 Header
+[OK] Loaded GLD File > err = 0
+Regist Model
+[OK] Registed Texture
+[OK] Set VertexArray
+[OK] Registed Model
+Regist WireFrame Model
+[OK] Set Coloy Array
+[OK] Set WireVertex Array
+[OK] Registed Wireframe Array
+[OK] Free GLD Memory = 5
+[OK] Initalized Model (pentium4.gld)
+Init. Model (palomino.gld)
+[OK] Initialized Function Pointer 
+[OK]Initialized Model
+Load GLD File (palomino.gld)
+[OK] Initialized GC2 Header
+[OK] GC2 Load Header > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Load GC2 Ver2
+[OK] Loaded GC2 > err = 0
+[OK] Free GC2 Header
+[OK] Initialized GC2 Header
+[OK] GC2 Load Header > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Load GC2 Ver2
+[OK] Loaded GC2 > err = 0
+[OK] Free GC2 Header
+[OK] Loaded GLD File > err = 0
+Regist Model
+[OK] Registed Texture
+[OK] Set VertexArray
+[OK] Registed Model
+Regist WireFrame Model
+[OK] Set Coloy Array
+[OK] Set WireVertex Array
+[OK] Registed Wireframe Array
+[OK] Free GLD Memory = 5
+[OK] Initalized Model (palomino.gld)
+Init. Model (wireback.gld)
+[OK] Initialized Function Pointer 
+[OK]Initialized Model
+Load GLD File (wireback.gld)
+[OK] Loaded GLD File > err = 0
+Regist Model
+[OK] Registed Texture
+[OK] Set VertexArray
+[OK] Registed Model
+Regist WireFrame Model
+[OK] Set Coloy Array
+[OK] Set WireVertex Array
+[OK] Registed Wireframe Array
+[OK] Free GLD Memory = 5
+[OK] Initalized Model (wireback.gld)
+Init. Model (redcone.gld)
+[OK] Initialized Function Pointer 
+[OK]Initialized Model
+Load GLD File (redcone.gld)
+[OK] Initialized GC2 Header
+[OK] GC2 Load Header > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Load GC2 Ver2
+[OK] Loaded GC2 > err = 0
+[OK] Free GC2 Header
+[OK] Loaded GLD File > err = 0
+Regist Model
+[OK] Registed Texture
+[OK] Set VertexArray
+[OK] Registed Model
+Regist WireFrame Model
+[OK] Set Coloy Array
+[OK] Set WireVertex Array
+[OK] Registed Wireframe Array
+[OK] Free GLD Memory = 5
+[OK] Initalized Model (redcone.gld)
+Init. Model (grencone.gld)
+[OK] Initialized Function Pointer 
+[OK]Initialized Model
+Load GLD File (grencone.gld)
+[OK] Initialized GC2 Header
+[OK] GC2 Load Header > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Load GC2 Ver2
+[OK] Loaded GC2 > err = 0
+[OK] Free GC2 Header
+[OK] Loaded GLD File > err = 0
+Regist Model
+[OK] Registed Texture
+[OK] Set VertexArray
+[OK] Registed Model
+Regist WireFrame Model
+[OK] Set Coloy Array
+[OK] Set WireVertex Array
+[OK] Registed Wireframe Array
+[OK] Free GLD Memory = 5
+[OK] Initalized Model (grencone.gld)
+Init. Model (bluecone.gld)
+[OK] Initialized Function Pointer 
+[OK]Initialized Model
+Load GLD File (bluecone.gld)
+[OK] Initialized GC2 Header
+[OK] GC2 Load Header > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Load GC2 Ver2
+[OK] Loaded GC2 > err = 0
+[OK] Free GC2 Header
+[OK] Loaded GLD File > err = 0
+Regist Model
+[OK] Registed Texture
+[OK] Set VertexArray
+[OK] Registed Model
+Regist WireFrame Model
+[OK] Set Coloy Array
+[OK] Set WireVertex Array
+[OK] Registed Wireframe Array
+[OK] Free GLD Memory = 5
+[OK] Initalized Model (bluecone.gld)
+Initialized hiyogl Init.
+Initialized glut-2
+Booting Scene0 
+[Scene0] Init. Logo
+[Scene0] Loading GC2 LogoFile 
+[OK] Initialized GC2 Header
+[OK] GC2 Load Header > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Init. Bit Data > err = 0
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Free BitData
+[OK] Load GC2 Ver2
+[OK] GC2 File Load > err = 0
+[OK] Free GC2 Header
+[Scene0] Init. GLFog
+[Scene0] Init. GL Parameter
+[Scene0] Init. GL Lighting
+[Scene0] Loop Start!
+Main Loop Start
+[Scene1] Booting Scene1
+[Scene1] Initalize Parameter
+[Scene1] Initalize CPU Model
+[Scene1] Initalize GL Depth
+[Scene1] Initalize Fog
+[Scene1] Starting Scene1
+[Scene2] Booting Scene2
+[Scene2] Initialized Parameter
+[Scene2] Initialized CPU Model
+[Scene2] Initialized GL Depth
+[Scene2] Initialized GL Fog
+[Scene2] Initialized GL Light
+[Scene2] Starting Scene2
+[Scene2] Stage 0
+Terminating hiyoGL
+[OK] Free GLD Memory = 10
+[OK] Free Model
+[OK] Free GLD Memory = 10
+[OK] Free Model
+[OK] Free GLD Memory = 10
+[OK] Free Model
+[OK] Free GLD Memory = 10
+[OK] Free Model
+[OK] Free GLD Memory = 10
+[OK] Free Model
+[OK] Free GLD Memory = 10
+[OK] Free Model
+Free Model Memory
+Complete!!

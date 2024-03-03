@@ -1,0 +1,66 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Project Name : CrystalMark 2004 OpenGL Part
+    Code Name : hiyoGL
+      Version : 0.52
+ Copyright(C) : Koinec (Koinec Binary Works)
+                hiyohiyo (Crystal Dew World)
+    Programer : Koinec
+         Mail : (Master) hiyohiyo@crystalmark.info
+                (Slave)  koinec@ec.hokudai.ac.jp
+          Web : (CrystalMark2004) http://crystalmark.info/
+                (hiyoGL Bench) http://musee.cims.hokudai.ac.jp/~koinec/opengl/
+ Requirements : Windows 2003/XP/2000/NT4/Me/98/95 (Longhorn)
+                OpenGL 1.1 (opengl32.dll, glu32.dll)
+      Licence : Freeware
+      Startup : 2004/03/15
+       Update : 2004/03/31
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+[  Library  ]
+glut Version 3.7.6 for Win32 
+Copyright(C) Mark J. Kilgard
+The OpenGL Utility Toolkit distribution for Win32 (Windows NT &
+Windows 95) contains source code modified from the original source
+code for GLUT version 3.3 which was developed by Mark J. Kilgard.  The
+original source code for GLUT is Copyright 1997 by Mark J. Kilgard.
+GLUT for Win32 is Copyright 1997 by Nate Robins and is not in the
+public domain, but it is freely distributable without licensing fees.
+It is provided without guarantee or warrantee expressed or implied.
+It was ported with the permission of Mark J. Kilgard by Nate Robins.
+THIS SOURCE CODE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER
+EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+OR MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+OpenGL (R) is a registered trademark of Silicon Graphics, Inc.
+
+AMD AthlonXP Texture Image presented by Advanced Micro Devices, Inc. (AMD) Digital Media Library.
+(http://www.amd.com/)  Thank You very much!!
+テクスチャ画像にはAMD, Advanced Micro Devices, Inc.様のWeb(http://www.amd.com/)のDigital Media LibraryよりAthlonXPの画像を利用させていただきました。
+この場を借りてお礼申し上げます。
+
+
+[ 重要な仕様・お願い ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+・ビデオカードやＯＳによっては正常に動作できない場合があるかもしれません。
+  もし正常に動作しなかった場合は、出来る限り対策を検討致しますので実行
+  ディレクトリに生成されます CM09OGL.log を上記アドレスまで
+  ご送付下さいますようお願いいたします。
+・動作確認情報等、詳細はhttp://musee.cims.hokudai.ac.jp/~koinec/opengl/に
+  掲載しておりますので御参照ください。
+・Windows95 無印、a(OSR1)をご使用の方は必ず
+  ftp://ftp.microsoft.com/Softlib/MSLFILES/OpenGL95.exe
+  からOpenGL DLLをダウンロードし、その中のOpenGL32.DLLとglu32.dllをWindowsの
+  システムディレクトリ（c:\windows\system等）にコピーした後に実行してください。
+  この操作を行なわない場合、上記ＯＳ環境で正常に動作致しません。
+  Windows95OSR2以上の環境では、この作業は必要ありません。
+
+[ 更新履歴 / 開発日記 ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+<0.52 2004/03/31>
+・CrystalMark 2004 のリリースにあわせて正式版化
+
+<0.51 Beta 2004/03/29>
+・CrystalMark 2004 からの呼び出しに対応
+・最大表示 CPU 数を 4096 に変更
+
+<0.5 Beta 2004/03/15>
+ 試験公開版
